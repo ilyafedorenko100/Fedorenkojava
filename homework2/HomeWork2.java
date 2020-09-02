@@ -4,7 +4,8 @@ public class HomeWork2 {
             int a=199;
             int b=111;
             String c = "Start";
-            System.out.println(a+b+ " " +c+ "х5");
+            int d=4;
+            System.out.println(a+b+ " " +c+ "х5"+d);
         }
     }
 
